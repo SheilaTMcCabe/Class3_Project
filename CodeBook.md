@@ -1,10 +1,13 @@
 #Background: 
 A full background description of the data set is available at the site http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-#Description:
+#Description of Data:
 The dataset includes the following files:
- features_info.txt: Shows information about the variables used on the feature vector 
+ 
+ features_info.txt: Shows information about the variables used on the feature vector
+ 
  -'features.txt': List of all features
+ 
  -'activity_labels.txt': Links the class labels with their activity name.
 
 - 'train/X_train.txt': Training set.
