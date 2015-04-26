@@ -21,8 +21,8 @@ read in the 'Activity' data
 + test/y_test.txt
         
 read in the 'Subject' data
-train/subject_train.txt
-test/subject_test.txt
++ train/subject_train.txt
++ test/subject_test.txt
         
 ## Task 1: merge the training and the test sets by combining the data and setting the variable names 
  + combine the 'Features', 'Activity', and 'Subject' data
